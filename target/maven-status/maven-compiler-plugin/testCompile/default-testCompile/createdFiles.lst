@@ -1,0 +1,10 @@
+JUnit5Tests\TaggedTestClass.class
+JUnit5Tests\FirstTestClass.class
+JUnit5Tests\AssertionsTestClass.class
+JUnit5Tests\AssumptionsTest.class
+JUnit5Tests\ParameterizedTests.class
+JUnit5Tests\OrderedTestClass1.class
+JUnit5Tests\ParamProvider.class
+JUnit5Tests\DisabledEnabledTests.class
+JUnit5Tests\OrderedTestClass2.class
+JUnit5Tests\RepeatedTests.class
